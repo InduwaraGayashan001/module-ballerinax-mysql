@@ -1,0 +1,8 @@
+[
+{
+  "name":"org.apache.kafka.common.security.oauthbearer.DefaultJwtRetriever"
+},
+{
+  "name":"org.apache.kafka.common.security.oauthbearer.DefaultJwtValidator"
+}
+]
